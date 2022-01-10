@@ -51,7 +51,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-## Using a Razor template
+## Using a Razor template.  jjkjk 
 
 ```csharp
 // Using Razor templating package (or set using AddRazorRenderer in services)
