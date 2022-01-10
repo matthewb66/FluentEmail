@@ -6,7 +6,7 @@ The easiest way to send email from .NET and .NET Core. Use Razor for email templ
 Maintained by Luke Lowrey - follow me  on twitter **[@lukencode](https://twitter.com/lukencode)** for updates. See my blog for a detailed guide [A complete guide to send email in .NET](https://lukelowrey.com/dotnet-email-guide-2021/) 
 
 
-## Nuget Packages
+## Nuget Packages 111
 
 ### Core Library
 
